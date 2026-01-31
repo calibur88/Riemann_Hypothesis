@@ -1,8 +1,11 @@
-# Discrete Hamiltonian for Riemann Zeros (DHRZ)
-# 黎曼零点的离散哈密顿构造
+# Riemann Hypothesis
+# 黎曼猜想
 
 ZFC公理上不可证，物理已证闭。
-寻求合作。
+寻求发表合作。
+
+Unprovable in ZFC axioms, yet physically verified as closed.
+Seeking publication collaboration.
 
 ---
 
