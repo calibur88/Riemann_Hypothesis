@@ -1,0 +1,5 @@
+# GUE
+黎曼零点明确属于 GUE（Gaussian Unitary Ensemble，高斯酉系综）：
+Dyson 指数: β = 2
+对称性: 时间反演对称性破缺（Time-reversal symmetry broken）
+物理对应: 无自旋粒子在强磁场中的量子混沌系统
